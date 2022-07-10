@@ -1,1 +1,2 @@
 #  Simple Blog
+Stories blog
