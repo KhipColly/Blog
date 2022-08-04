@@ -1,3 +1,3 @@
 #  Simple Blog
 
-stori
+stor
