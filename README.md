@@ -1,3 +1,3 @@
-#  Simple Blog
+#  Simple Blo
 
 site
