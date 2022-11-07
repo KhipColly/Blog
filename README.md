@@ -1,4 +1,4 @@
 #  Simple Blog
 
-sit
+site
 
