@@ -1,5 +1,5 @@
 #  Simple Blog
 
-sit
+site
 
 
