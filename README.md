@@ -1,6 +1,6 @@
 #  Simple Blog
 
-sites
+site
 
 
 
