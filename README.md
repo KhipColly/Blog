@@ -1,4 +1,4 @@
-#  Simple Blo
+#  Simple Blog
 
 
 
